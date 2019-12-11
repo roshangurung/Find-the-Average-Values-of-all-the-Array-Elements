@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Find_the_Average_Values_of_all_the_Array_Elements</RootNamespace>
+  </PropertyGroup>
+
+</Project>
